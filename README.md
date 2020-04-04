@@ -13,6 +13,12 @@ You're going to make a Las Vegas dice app. You can make the die roll at the pres
 
 ## Screenshots
 
+![Image description](https://i.imgur.com/GOYzIbj.png) 
+
+## Installation
+
+1. Clone this repo.
+2. Enjoy.
 
 
-### Love, Dima Odintsov
+##### Love, Dima Odintsov
