@@ -1,24 +1,27 @@
+# Roll A Dice 🎲
 
-#  - RollADice - 🎲
+![badge1](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![badge2](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+> A Las Vegas dice app. You can make the dice roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-## Our Goal
+## My Goal
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
-
-
-## What you will create
-
-You're going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
-
+My goal is give you the knowledge to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
 
 ## Screenshots
 
 ![Image description](https://i.imgur.com/GOYzIbj.png) 
 
 ## Installation
+At the root of the project run
+```
+$> flutter install
+```
+>  aka the needed dependencies.
 
-1. Clone this repo.
-2. Enjoy.
+## Commands
+To Run the project
+```
+$> flutter run
+```
 
-
-##### Love, Dima Odintsov
+##### Love, Dima Odintsov ❤️
