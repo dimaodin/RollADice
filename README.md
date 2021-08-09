@@ -19,7 +19,7 @@ My goal is give you the knowledge to create a Flutter app entirely from scratch,
 
 ## :construction_worker: Installation
 
-At the root of the Project run:
+***In order to clone the project via HTTPS, run this command:***
 
 ```
 $> git clone https://github.com/dimaodin/rolladice.git
