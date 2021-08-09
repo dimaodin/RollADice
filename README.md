@@ -60,7 +60,7 @@ Check out the [contributing](https://github.com/dimaodin/RollADice/blob/master/C
 ## :closed_book: License
 
 Released in 2020,
-This project is under the [MIT license](https://github.com/dimaodin/RollADice/blob/main/LICENSE).
+This project is under the [MIT license](https://github.com/dimaodin/RollADice/blob/master/LICENSE).
 
 <br>
 
